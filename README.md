@@ -19,7 +19,7 @@ Main: RandomForestRegressor <br>
 Analysis: DNN, SVR(linear), DesisionTreeRegressor
 
 ### More Information
-Youtube: <br>
+Youtube: https://youtu.be/VIXhzYixBsg
 Model Code: https://github.com/ricardotavera/Safetown/blob/main/SafetownAI.ipynb <br>
 Run Code: https://replit.com/@DanielRicardoR5/ModelTesting 
 
